@@ -3,7 +3,7 @@ read -p " 1.kembali menu | 2.keluar : " pe
 
 case $pe in
 1)
-sh intenret
+sh internet
 exit
 ;;
 
