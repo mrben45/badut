@@ -7,4 +7,8 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 516$n  ┃"
+echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 518$n  ┃"
+
+echo "$m update tersedia! $h loading..."
+sleep 5
+cd;rm -rf autossh && rm -rf internet && git clone https://github.com/mrben45/autossh && cd autossh && sh internet
